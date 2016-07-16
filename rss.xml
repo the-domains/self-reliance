@@ -4,7 +4,7 @@
         <description><![CDATA[Self Reliance]]></description>
         <link>https://thegrid.ai/self-reliance/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jul 2016 21:51:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2016 21:57:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/self-reliance/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Why Solar?]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/79a7e5dd-6a0f-4f02-ab2d-f1dd6e93ab0e.png</link>
             <guid isPermaLink="false">6b666fe6-3e3d-4d94-af77-d860694cb315</guid>
             <pubDate>Sat, 16 Jul 2016 21:47:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/39e0ba43-8e3f-4d25-a525-6c89f5d8fad3.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/39e0ba43-8e3f-4d25-a525-6c89f5d8fad3.jpg</link>
+            <guid isPermaLink="false">0fe45119-a1ef-4dda-858d-f4c7516df861</guid>
+            <pubDate>Sat, 16 Jul 2016 21:57:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
